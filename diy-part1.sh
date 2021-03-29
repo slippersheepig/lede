@@ -18,3 +18,5 @@
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
 git clone https://github.com/jerrykuku/luci-app-ttnode.git package/luci-app-ttnode
 git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+git clone https://github.com/spacemeowx2/switch-lan-play.git package/switch-lan-play
+git clone https://github.com/skylovebeauty/luci-app-switch-lan-play.git package/luci-app-switch-lan-play
